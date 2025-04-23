@@ -222,4 +222,4 @@ print(f"P-Value: {p}")
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus the given data and perform Feature Scaling and Feature Selection process
